@@ -6,7 +6,15 @@ Contributors:
 - `LSQUARE14`
 - `Ld4vicl`
 
-## 1. Techstack:
+## 1. Project Tracker:
+
+### `LSQUARE`
+- [ ] Create Home Page UI.
+
+### `Ld4vicl`
+- [ ] Update soon.
+
+## 2. Techstack:
 
 ### Front-end:
 - HTML
@@ -17,7 +25,7 @@ Contributors:
 - **Server**: PHP
 - **Database**: MySQL
 - **Others**: Docker, Github, CI/CD.
-## 2. Rules for contributors:
+## 3. Rules for contributors:
 
 - Apply OOP.
 - Maintain organized folder structure and clean architecture for scalable purpose (recommendation: MVC or HMVC).
@@ -26,7 +34,7 @@ Contributors:
 - Language: English.
 - **NO AI ALLOWED**.
 
-## 3. Folder structure: 
+## 4. Folder structure: 
 
 Currently, this repo using HMVC folder structure like this:
 - `config`: contains custom PHP config files.
@@ -43,7 +51,7 @@ Currently, this repo using HMVC folder structure like this:
 - `views`: contains views that should be globally accessible (page header, footer, etc).
 - `build`: for Dockerfile, docker-compose.yaml and custom build script for building purpose.
 
-## 4. Resources:
+## 5. Resources:
 
 | Name | Description | References |
 |---|---|---|
