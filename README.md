@@ -1,19 +1,22 @@
-# 🧠💥 Java Web: A Journey Into Madness
+# Hệ thống thương mại quần áo
+--- 
+## 1. Techstack:
+### Front-end:
+- HTML
+- CSS
+- JS và các thư viện của nó.
+- Tailwind.
+### Back-end:
+- Server: PHP
+- Database: MySQL
+- Công nghệ khác: Docker, Github, CI/CD.
+## 2. Quy trình triển khai:
 
-Welcome to Java Web development, where you write **47 XML files** just to say "**Hello, World!**", and your app crashes because **one bean** wasn't blessed by the annotation fairy. 🧚‍♂️
+- Code OOP
+- Thực hiện phân chia clean architecture.
+- Đảm bảo quản lý role chặt chẽ.
+- NO AI ALLOWED.
+- Đặt tên hàm, tên biến, tên giá trị theo snake.
+- Đặt tên class theo dạng UserPage.php
+- Code tiếng Anh, comment tiếng Anh
 
-Here, we don't do "simple."  
-You want a button? That'll be **3 Controllers**, **5 Services**, **a DAO**, and **one `application.properties` file** that somehow makes or breaks your will to live.
-
-Need to debug something?  
-Just open the logs:  
-- 0 useful errors  
-- 2,483 lines of "WARN: something might be slightly wrong but maybe not"
-
-And remember:  
-If it doesn't work, just delete your `target/`, restart Tomcat, invalidate caches, sacrifice a rubber duck, cry in a dark corner, then try **clean install** again. If it *still* doesn't work — **have you tried switching to Kotlin?** 🫠
-
-In Java Web, every small win feels like hacking NASA.  
-Every small bug feels like falling into the ninth circle of dependency injection hell.
-
-Good luck, soldier. You'll need it. 🫡🔥
